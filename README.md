@@ -21,5 +21,5 @@
 <a href="https://www.linkedin.com/in/phelipe-cordeiro-da-silva-7210b41b6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/PHCS94/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PHCS94/PHCS94/blob/output/github-contribution-grid-snake.svg)
 
