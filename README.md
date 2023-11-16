@@ -1,8 +1,4 @@
 <! --
-**PHCS94/PHCS94** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
-Aqui estão algumas idéias para você começar:
-
 - 🔭 Atualmente estou trabalhando na via movilidade.
 - 🌱 Atualmente estou aprendendo mais sobre o mundo devops!
 - 👯 Estou procurando colaborar em desenvolvimentos de scripts!
