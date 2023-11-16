@@ -9,11 +9,11 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-## Estou aprendendo
+- ## Estou aprendendo
 
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-## Contatos:
+- ## Contatos:
 
 <div>
 <a href="https://www.youtube.com/channel/UCI9jcU5cmKFWkTrQg727KdQ" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
